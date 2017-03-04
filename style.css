@@ -1,1 +1,25 @@
+body
+{
+    background-color: white; 
+    color: black;/*Pour la couleur de texte*/
+}
 
+h1
+{
+	color : black;
+}
+
+h2
+{
+	color : black;
+}
+
+h3
+{
+	color : black;
+}
+
+p
+{
+	color : black;
+}
